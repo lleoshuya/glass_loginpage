@@ -27,7 +27,7 @@ section .color:nth-child(1) {
     top: -350px;
     width: 600px;
     height: 600px;
-    background: #ff359b;
+    background: #2C3A47;
 }
 
 section .color:nth-child(2) {
@@ -35,7 +35,7 @@ section .color:nth-child(2) {
     left: 100px;
     width: 500px;
     height: 500px;
-    background: #fffd87;
+    background: #B2BEC3;
 }
 
 section .color:nth-child(3) {
@@ -43,7 +43,7 @@ section .color:nth-child(3) {
     right: 100px;
     width: 300px;
     height: 300px;
-    background: #00d2ff;
+    background: #4B6584;
 }
 
 .box {
