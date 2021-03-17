@@ -195,7 +195,7 @@ section .color:nth-child(3) {
 
 .form h2 {
     position: relative;
-    color: #FFFFFF;
+    color: chocolate;
     font-size: 24px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -207,9 +207,9 @@ section .color:nth-child(3) {
     position: absolute;
     left: 0;
     bottom: -10px;
-    width: 80px;
+    width: 100px;
     height: 4px;
-    background: #FFFFFF;
+    background: #000000;
 }
 
 .form .inputBox {
@@ -244,6 +244,11 @@ section .color:nth-child(3) {
     cursor: pointer;
     margin-bottom: 20px;
     font-weight: 600;
+}
+
+.form .inputBox input[type="submit"]:hover {
+    background: #0bd874;
+    border: 2px solid rgba(255, 255, 255, 0.5);
 }
 
 .forget {
